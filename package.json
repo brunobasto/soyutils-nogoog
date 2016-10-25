@@ -1,0 +1,20 @@
+{
+  "name": "soyutils-nogoog",
+  "version": "1.0.0",
+  "description": "Soyutils without dependency on google.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunobasto/soyutils-nogoog"
+  },
+  "main": "index.js",
+  "keywords": [
+    "closure-templates",
+    "google",
+    "soyutils"
+  ],
+  "author": {
+    "name": "Bruno Basto",
+    "email": "bruno.basto@liferay.com"
+  },
+  "license": "MIT"
+}
